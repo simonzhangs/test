@@ -7,4 +7,4 @@
 
 create a branch 
 
-i'm dev branch and 
+i'm dev branch and new's branch
